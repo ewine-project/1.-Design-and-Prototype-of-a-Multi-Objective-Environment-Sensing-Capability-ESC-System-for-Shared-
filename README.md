@@ -10,3 +10,7 @@ While the use of a spectrum access system (SAS) to facilitate spectrum sharing h
 ### Adaptive Noise Floor Estimation Algorithm 
 ![Alt text](https://user-images.githubusercontent.com/24733570/32942342-0e55022a-cb89-11e7-9aca-c442a2344f5a.png)
 ### Interference Design Module
+![Alt text](https://user-images.githubusercontent.com/24733570/32942343-0e69a7de-cb89-11e7-8f1c-85b508e18137.png)
+### Secondary Users Airtime Utilization Module
+
+### Radar Signal Detection Module
