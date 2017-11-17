@@ -12,5 +12,5 @@ While the use of a spectrum access system (SAS) to facilitate spectrum sharing h
 ### Interference Design Module
 ![Alt text](https://user-images.githubusercontent.com/24733570/32942343-0e69a7de-cb89-11e7-8f1c-85b508e18137.png)
 ### Secondary Users Airtime Utilization Module
-
+![Alt text](https://user-images.githubusercontent.com/24733570/32942344-0e7cf99c-cb89-11e7-9c19-a06d5bccd81b.png)
 ### Radar Signal Detection Module
