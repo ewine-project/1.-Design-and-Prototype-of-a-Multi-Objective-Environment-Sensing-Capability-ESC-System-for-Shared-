@@ -6,3 +6,5 @@ While the use of a spectrum access system (SAS) to facilitate spectrum sharing h
 ![Alt text](https://user-images.githubusercontent.com/24733570/32942167-813b61d6-cb88-11e7-85d3-1ca753aff580.png)
 ## Algorithm description
 ### ESC Device Algorithm for SA with Rotating Radars
+![Alt text](https://user-images.githubusercontent.com/24733570/32941929-bb5818d8-cb87-11e7-9295-7bff1511ca4d.png)
+### Adaptive Noise Floor Estimation Algorithm 
