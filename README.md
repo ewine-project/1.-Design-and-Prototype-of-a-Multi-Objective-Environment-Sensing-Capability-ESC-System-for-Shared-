@@ -14,3 +14,4 @@ While the use of a spectrum access system (SAS) to facilitate spectrum sharing h
 ### Secondary Users Airtime Utilization Module
 ![Alt text](https://user-images.githubusercontent.com/24733570/32942344-0e7cf99c-cb89-11e7-9c19-a06d5bccd81b.png)
 ### Radar Signal Detection Module
+![Alt text](https://user-images.githubusercontent.com/24733570/32942345-0e9096d2-cb89-11e7-9675-ef251c288a18.png)
