@@ -18,7 +18,7 @@ While the use of a spectrum access system (SAS) to facilitate spectrum sharing h
 # Reference 
 If you want more information, then your can refer to our publised paper. In addition, if you find any information in the content that is help for your research, then please cite the paper in your work.
 
-*Khan Z, Lehtomäki JJ, Aguilar-Gonzalez R, Vuohtoniemi R, Hossain E, DaSilva LA, Marshall A. Database-Assisted Distributed and Cloud-Based Access Methods for Unlicensed and Radar Bands. IEEE Transactions on Cognitive Communications and Networking. 2017 Sep;3(3):404-19.
+*Khan Z, Lehtomäki JJ, Aguilar-Gonzalez R, Vuohtoniemi R, Hossain E, DaSilva LA, Marshall A. Database-Assisted Distributed and Cloud-Based Access Methods for Unlicensed and Radar Bands. IEEE Transactions on Cognitive Communications and Networking. 2017 Sep;3(3):404-19.*
 
 # Contact
 zaheer.khan@oulu.fi
